@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">- 📚 Estudando Bacharelado em Ciência de dados  ...<br>- ⚡Sempre busco me atualizar e aprender algo novo todos os dias!</p>
+<p align="left">- 📚 Estudando Bacharelado em Ciência de dados  ...<br>- ⚡Sempre busco me atualizar e aprender algo novo todos os dias! <br>- 🌱 Atualmente Estou Aprendendo
+Python
+Mysql
+Machine Learning
+Modelagem de dados
+</p>
 
 ###
 
