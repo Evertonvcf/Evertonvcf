@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hello, World! Bem vindo ao meu Github!👋</h1>
+<h1 align="center">Hello World, Bem vindo ao meu Github!👋</h1>
 
 ###
 
